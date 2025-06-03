@@ -1,5 +1,6 @@
 # StaGNet
 A Stable Gene Network Framework for Key Driver Detection Across Age Trajectories
+
 StaGNet is a robust framework for identifying key driver genes across developmental time using bulk or pseudo-bulk transcriptomic data. The pipeline combines variance and mutual information-based feature selection, elastic net-based network construction with bootstrap aggregation, and robust centrality metrics to detect stable and biologically meaningful gene interactions.
 
 
