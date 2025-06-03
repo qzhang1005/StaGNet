@@ -25,4 +25,4 @@ Avoids common pitfalls like centrality metric collapse (e.g., NaNs)
 Suited for developmental transcriptomics across cell types or brain regions
 
 
-This pipeline was tested on neuronal samples from the BrainSpan dataset and is generalizable to other age-related transcriptomic studies.
+This pipeline was tested on neuronal samples from the BrainSpan_imputation and is generalizable to other age-related transcriptomic studies.
